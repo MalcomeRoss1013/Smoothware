@@ -29,7 +29,9 @@ function App() {
                         <Route exact path="/login" element = {<Login />}/>
                         <Route exact path="/sign-in" element = {<Login />}/>                        <Route exact path="/register" element = {<Register />}/>
                         <Route exact path="/contact" element = {<Contact />}/> 
+                        <Route exact path="/Smootheware" element = {<Home />}/>
                         <Route exact path="/" element = {<Home />}/>
+               
                   </Routes>
 
                 </div>
