@@ -1,0 +1,205 @@
+.OverallContainer{
+    /* background-color: rgb(0, 18, 51); */
+  background-color: #ffffff;
+}
+
+
+
+.inFR{
+    margin-top: 20%;
+    color:BLACK;
+   
+    width: 100%;
+    height: 60%;
+  
+
+
+} 
+
+
+ .PrS{
+    color: black;
+    font-size: 95px;
+    width: 100%;
+    height: 40%;
+    margin: 70px;
+    text-align: left;
+
+
+ 
+}
+
+.btxt2{
+width: 90%;
+margin-right: 5%;
+margin-left: 5%;
+height: 50%;
+
+text-align: left;
+}
+
+.txt2{
+    color: black;
+    font-size: 75px;
+    
+    
+
+} 
+
+.First{
+
+ width: 100%; 
+ height: 900px;
+ background-size: cover;
+ background-position-y: 60%;
+ background-repeat: no-repeat;
+
+
+ 
+}
+
+.FirstLeft{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-image: url(../images/ADOBELOGO2.PNG);
+    background-size: contain;
+
+
+    background-position-y: 50%;
+   
+    background-repeat: no-repeat;
+    border-radius: 0px 25px 25px 0px;
+
+
+
+}
+
+.FirstRight{
+    width: 50%;
+    height: 100%;
+    float: right;
+
+    
+
+}
+
+.Second{
+
+    width: 100%; 
+    height: 900px;
+    background-size: cover;
+    background-position-y: 60%;
+    background-repeat: no-repeat;
+
+    
+    
+   }
+
+   .SecondLeft{
+    width: 50%;
+    height: 100%;
+    float: left;
+   
+}
+
+.SecondRight{
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-image: url(../images/Homelayer2.png);
+    background-size: contain;
+    
+    background-position-y: 40%;
+    background-repeat: no-repeat;
+    border-radius: 25px 0px 0px 25px;
+   
+
+    
+    
+
+}
+
+.PrS2{
+    color: black;
+    font-size: 95px;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 30%;
+    
+    
+
+
+ 
+}
+
+
+.btxt3{
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 60%;
+   
+    
+    text-align: center;
+    }
+
+.Third{
+    width: 100%; 
+    height: 900px;
+    background-size: cover;
+    background-position-y: 60%;
+    background-repeat: no-repeat;
+
+}
+
+.ThirdLeft{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-image: url(../images/guycheer2.PNG);
+    background-size: cover;
+    
+    background-position-y: 40%;
+    background-repeat: no-repeat;
+    border-radius: 0px 25px 25px 0px;
+
+
+
+}
+
+.ThirdRight{
+    width: 50%;
+    height: 100%;
+    float: right;
+
+    
+
+}
+
+.PrS3{
+    color: black;
+    font-size: 95px;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 30%;
+ 
+    
+
+
+ 
+}
+
+
+.btxt4{
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 60%;
+   
+    
+    text-align: center;
+    }
+
