@@ -3,14 +3,13 @@ import NavbarComp from './components/NavbarComp';
 import {
   BrowserRouter,
   Routes,
-  Route
+  Route,
+  HashRouter
 } from "react-router-dom";
 import Home from './components/Home';
 import Contact from './components/Contact';
 import Login from './components/Login'; 
 import Shop from './components/Shop';
-
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Register from './components/Register';
@@ -18,7 +17,7 @@ import Register from './components/Register';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
     <div className="App">
     <NavbarComp/>
       
@@ -36,7 +35,7 @@ function App() {
 
                 </div>
     </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
